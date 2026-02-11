@@ -1,0 +1,87 @@
+{
+  "Broke": {
+    "active": true,
+
+    "members": [
+      "Brandi",
+      "Dustin",
+      "Beau"
+    ],
+
+    "money": 929
+  },
+  "Caliente": {
+    "active": true,
+
+    "members": [
+      "Dina",
+      "Nina"
+    ],
+
+    "money": 1040
+  },
+  "Dreamer": {
+    "active": true,
+
+    "members": [
+      "Darren",
+      "Dirk"
+    ],
+
+    "money": 968
+  },
+  "Goth": {
+    "active": true,
+
+    "members": [
+      "Mortimer",
+      "Cassandra",
+      "Alexander"
+    ],
+
+    "money": 511632
+  },
+  "Lothario": {
+    "active": true,
+
+    "members": [
+      "Don"
+    ],
+
+    "money": 968
+  },
+  "Pleasant": {
+    "active": true,
+
+    "members": [
+      "Daniel",
+      "Mary-Sue",
+      "Angela",
+      "Lilith"
+    ],
+
+    "money": 2250
+  },
+  "Burb": {
+    "active": false,
+
+    "members": [
+      "John",
+      "Jennifer",
+      "Lucy"
+    ],
+
+    "money": 21901
+  },
+  "Oldie": {
+    "active": false,
+
+    "members": [
+      "Herb",
+      "Coral"
+    ],
+
+    "money": 20900
+  }
+}
+}
